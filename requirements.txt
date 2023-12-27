@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+-e . 
+# 会自动触发setup.py文件
